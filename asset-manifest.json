@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.00a91aea.css",
-    "main.js": "/static/js/main.a73ab045.js",
+    "main.css": "/static/css/main.7f10b7f8.css",
+    "main.js": "/static/js/main.499789c1.js",
     "static/media/mastercard-mobile.svg": "/static/media/mastercard-mobile.64a68440ae704de4d180.svg",
     "static/media/whatsapp-mobile.svg": "/static/media/whatsapp-mobile.db4fdea63d5ac10f8039.svg",
     "static/media/caret-mobile.svg": "/static/media/caret-mobile.8ae705c01696addebcbf.svg",
@@ -14,11 +14,11 @@
     "static/media/caret-circle-mobile.svg": "/static/media/caret-circle-mobile.f97d7a44490f0e1e0342.svg",
     "static/media/caret-circle.svg": "/static/media/caret-circle.16c1f59c173f5d49f206.svg",
     "static/media/send-mobile.svg": "/static/media/send-mobile.35ab94e2f8817f324bd3.svg",
-    "main.00a91aea.css.map": "/static/css/main.00a91aea.css.map",
-    "main.a73ab045.js.map": "/static/js/main.a73ab045.js.map"
+    "main.7f10b7f8.css.map": "/static/css/main.7f10b7f8.css.map",
+    "main.499789c1.js.map": "/static/js/main.499789c1.js.map"
   },
   "entrypoints": [
-    "static/css/main.00a91aea.css",
-    "static/js/main.a73ab045.js"
+    "static/css/main.7f10b7f8.css",
+    "static/js/main.499789c1.js"
   ]
 }
