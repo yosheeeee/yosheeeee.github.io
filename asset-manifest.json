@@ -1,19 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.063e985e.css",
-    "main.js": "/static/js/main.72eaff3c.js",
+    "main.css": "/static/css/main.00a91aea.css",
+    "main.js": "/static/js/main.a73ab045.js",
+    "static/media/mastercard-mobile.svg": "/static/media/mastercard-mobile.64a68440ae704de4d180.svg",
+    "static/media/whatsapp-mobile.svg": "/static/media/whatsapp-mobile.db4fdea63d5ac10f8039.svg",
     "static/media/caret-mobile.svg": "/static/media/caret-mobile.8ae705c01696addebcbf.svg",
     "static/media/caret.svg": "/static/media/caret.a5d100d0100f4885c179.svg",
+    "static/media/visa-mobile.svg": "/static/media/visa-mobile.5a7aad47feee49ef6bb3.svg",
+    "static/media/telegram-mobile.svg": "/static/media/telegram-mobile.e9505159f8b4cb6d46bc.svg",
     "index.html": "/index.html",
     "static/media/search-icon.svg": "/static/media/search-icon.dc220b85ec983988f6f2.svg",
     "static/media/burger.svg": "/static/media/burger.093eea7d000932b68c4c.svg",
     "static/media/caret-circle-mobile.svg": "/static/media/caret-circle-mobile.f97d7a44490f0e1e0342.svg",
     "static/media/caret-circle.svg": "/static/media/caret-circle.16c1f59c173f5d49f206.svg",
-    "main.063e985e.css.map": "/static/css/main.063e985e.css.map",
-    "main.72eaff3c.js.map": "/static/js/main.72eaff3c.js.map"
+    "static/media/send-mobile.svg": "/static/media/send-mobile.35ab94e2f8817f324bd3.svg",
+    "main.00a91aea.css.map": "/static/css/main.00a91aea.css.map",
+    "main.a73ab045.js.map": "/static/js/main.a73ab045.js.map"
   },
   "entrypoints": [
-    "static/css/main.063e985e.css",
-    "static/js/main.72eaff3c.js"
+    "static/css/main.00a91aea.css",
+    "static/js/main.a73ab045.js"
   ]
 }
