@@ -1,0 +1,15 @@
+{
+    "settings": {
+        "title": "Settings",
+        "interface": "Interface",
+        "language": "Language",
+        "theme": "Theme",
+        "font": "Monospace font"
+    },
+    "navbar": {
+        "home" : "Home",
+        "typing" : "Typing",
+        "settings" : "Settings",
+        "profile": "Profile"
+    }
+}
